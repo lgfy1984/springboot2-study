@@ -5,15 +5,14 @@ springBoot-study 是本人在学习SpringBoot的一些工程！
 
 ### 下载地址
 
-[GitHub工程地址](https://github.com/xuwujing/springBoot-study):https://github.com/xuwujing/springBoot-study
+[GitHub工程地址](https://github.com/lgfy1984/springboot2-study):https://github.com/lgfy1984/springboot2-study
 
-[码云工程地址](https://gitee.com/XuWuJing/springBoot-study):https://gitee.com/XuWuJing/springBoot-study
 
 ### 使用说明
 
 **下载**
 
-    git clone https://github.com/xuwujing/springBoot-study.git
+    git clone https://github.com/lgfy1984/springboot2-study
 
 **使用**
 
